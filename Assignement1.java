@@ -33,3 +33,4 @@ public static void main (String[] args) throws Exception{
 	}
 }
 }
+//koden funkar, men hoppar inte ned till utsriften av innehållet i databasen utan skriver endast ut "connected to database"
